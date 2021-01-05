@@ -1,8 +1,5 @@
 version: 0.2
 
-env:
-    variables:
-        BUILD_FOLDER: "dist"
 phases:
   install:
     runtime-versions:
